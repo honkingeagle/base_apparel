@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Mobile() {
   return (
-    <section className="md:hidden w-[90%] mx-auto my-10">
+    <section className="md:hidden w-[90%] mx-auto py-10">
       <Image
         src="/logo.svg"
         alt="Base apparel Logo"
